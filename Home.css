@@ -1,0 +1,37 @@
+body {
+  background-color: #ccff66;
+}
+#menu {
+  background-color: wheat;
+}
+#menu, #Rules {
+  background-color: wheat;
+}
+#trailer {
+  background-color: #fd9865;
+}
+#slide {
+  background-color: black;
+}
+#slider {
+  background-color: white;
+}
+#showtimes {
+  background-color: #6ddada;
+}
+#logo {
+  background-color: white;
+}
+#chen {
+  background-color: #4fc576;
+}
+#links {
+  background-color: #33d86f;
+}
+#feeds {
+  background-color: #4fc576;
+}
+#info {
+  border-color: #7c5329;
+  border-width: 3px;
+}
